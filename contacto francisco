@@ -14,7 +14,10 @@
     .phone{font-size:14px;color:#222;opacity:0.9}
     .label{display:block;font-size:12px;color:#666;margin-top:6px}
     @media (max-width:420px){.card{padding:28px 20px}.title{font-size:22px}}
-  </style>
+    header, .page-header, .site-header, h1 {
+    display: none !important;
+    }
+</style>
 </head>
 <body>
   <div class="wrap">
