@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="es">
 <head>
   <meta charset="utf-8" />
@@ -20,7 +19,6 @@
 <body>
   <div class="wrap">
     <div class="card">
-      <!-- Blue heading intentionally removed as requested -->
       <div class="title">Francisco</div>
       <div class="subtitle">Teléfono</div>
       <div class="phone">+598 99 498 436</div>
